@@ -1,0 +1,52 @@
+.product-page {
+  text-align: center;
+  padding: 2rem;
+}
+
+.product-page img {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: green;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: red;
+}
+
+.new-price {
+  color: green;
+  font-weight: bold;
+}
+
+.discount {
+  color: red;
+  font-weight: bold;
+}
+
+button {
+  padding: 0.75rem 1.5rem;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: darkblue;
+}
+
+.review {
+  border-top: 1px solid #ddd;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+}

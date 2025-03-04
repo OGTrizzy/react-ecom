@@ -1,0 +1,22 @@
+.checkout-success {
+  text-align: center;
+  padding: 2rem;
+}
+
+.checkout-success h1 {
+  color: green;
+}
+
+.checkout-success a {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  background: blue;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.checkout-success a:hover {
+  background: darkblue;
+}
